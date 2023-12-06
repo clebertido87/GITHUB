@@ -1,0 +1,217 @@
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 12:41:36 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 12:48:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 12:50:07 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 14:11:33 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 19:16:05 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 19:16:05 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 19:16:05 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 19:16:05 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 19:16:05 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 19:16:05 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 19:16:06 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 19:16:06 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 19:16:06 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 19:16:06 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 19:16:06 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:11:57 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:16:30 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:16:54 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:16:54 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:16:55 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:17:42 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:19:19 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:20:09 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:21:14 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 20:26:21 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 21:05:56 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 21:05:59 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 22:20:57 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 22:25:20 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 22:25:21 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:31:19 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 95
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 5
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined array key "data_inicio" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 29
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total_aprovado in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 69
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total_pendente in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 73
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Undefined array key "pagina" in /home4/haagro/hinfosolucoes.com.br/cleber/admin/config/tabs.php on line 78
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  Attempt to read property "status" on null in /home4/haagro/hinfosolucoes.com.br/cleber/admin/classes/pix/MercadoPago/notification.php on line 25

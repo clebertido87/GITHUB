@@ -1,0 +1,1 @@
+<?php $objetPix->consultar_pix();?>
